@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://kuma2.cn/newlogo.png" alt="Cocode Logo" width="140" />
+<img src="https://r2.image-upload.app/ptImg/16ByfaTY1.png" alt="Cocode Logo" width="140" />
 
 # Cocode 酷码工作室
 

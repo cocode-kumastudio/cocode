@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/logo.png" alt="Cocode Logo" width="140" />
+<img src="https://raw.githubusercontent.com/cocode-kumastudio/cocode/main/.github/logo.png" alt="Cocode Logo" width="140" />
 
 # Cocode 酷码工作室
 
